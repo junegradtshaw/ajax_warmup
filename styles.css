@@ -1,0 +1,15 @@
+table {
+  border : 5px double black
+}
+
+table {
+  border-collapse: collapse
+}
+
+td, th {
+  border : 3px solid black
+}
+
+th {
+  column-span: all
+}
